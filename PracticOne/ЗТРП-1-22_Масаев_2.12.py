@@ -1,5 +1,6 @@
 import math
-print("Задача 2.12.")
+
+print("Даны действительные числа x, y вычислите u = 3x^2 - 2z +5")
 
 x = float(input("Введите x: "))
 y = float(input("Введите y: "))
